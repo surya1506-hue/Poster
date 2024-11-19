@@ -27,7 +27,7 @@
 
 <div align="center">
   
-## 🛠️ Stack I work with
+## Stack I work with 🛠️
   
   <br/>
 
@@ -73,7 +73,7 @@
 
 
 <h2 align="center">
-📊 My Github Stats 
+My Github Stats 📊
 </h2>
 <div align="center">
 <a href="https://github.com/ShariqueShaqub"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=ShariqueShaqub&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="The-Young-Programmer's GitHub stats"/></a>
