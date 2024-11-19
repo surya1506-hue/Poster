@@ -69,3 +69,45 @@
 <br/>
 </div>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+
+
+
+<h2 align="center">
+📊 My Github Stats 
+</h2>
+<div align="center">
+<a href="https://github.com/ShariqueShaqub"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=ShariqueShaqub&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="The-Young-Programmer's GitHub stats"/></a>
+<a href="https://www.github.com/ShariqueShaqub"><img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShariqueShaqub&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
+<a href="http://www.github.com/pal-sandeep"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ShariqueShaqub&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "100%"/></a>
+<!-- <a href="https://github.com/pal-sandeep/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pal-sandeep&repo=Django-URL-Shortener&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+-->
+</div>
+
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> </em>
+  <!-- ######################################################################################################## -->
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Cambria&color=%231B0EF7&center=true&vCenter=true&lines=%3C%20With+%E2%9D%A4%EF%B8%8Ffrom+Sharique%20%3E)](https://git.io/typing-svg)
+  <br>
+  <a href="https://github.com/ShariqueShaqub" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ShariqueShaqub?label=Github%20followers&style=for-the-badge">
+</a>
+  <br>
+  </div>
+  <br>
+<table align="center">
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/ShariqueShaqub/count.svg" alt=""/></td>
+  </tr>
+</table>
+
+
+<img width=100% title="Nemonet TYP" alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%Sharique%20Shaqub%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB&fontSize=51&fontColor=fff&animation=twinkling&fontAlignY=75"/>
+ 
+
